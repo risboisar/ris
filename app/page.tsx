@@ -176,10 +176,6 @@ return (
                 <span className="font-semibold text-sm">
                   {msg.name}
                 </span>
-
-                <span className="text-xs text-zinc-400">
-                  @{msg.username}
-                </span>
               </div>
 
               <p className="text-zinc-100 break-words leading-relaxed">
